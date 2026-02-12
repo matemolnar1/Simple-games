@@ -1,2 +1,2 @@
-# C-projects
+# C++ projects
 A few simple projects/games written in C++
